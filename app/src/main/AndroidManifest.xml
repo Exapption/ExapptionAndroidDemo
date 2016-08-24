@@ -49,5 +49,4 @@
         <meta-data android:name="com.exapption.config.appkey" android:value="0ff317f4-ad70-43ae-869d-417625147c1b" />
         <meta-data android:name="com.exapption.config.gcappid" android:value="@string/gcm_appid" />
     </application>
-
 </manifest>
